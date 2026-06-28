@@ -1,0 +1,518 @@
+[
+  {
+    "Title": "Deep Work: Rules for Focused Success in a Distracted World",
+    "Authors": "Cal Newport",
+    "ISBN/UID": "9781455586691",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "A Game of Thrones",
+    "Authors": "George R.R. Martin",
+    "ISBN/UID": "9780553588484",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Hunger Games",
+    "Authors": "Suzanne Collins",
+    "ISBN/UID": "9780439023481",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Mockingjay",
+    "Authors": "Suzanne Collins",
+    "ISBN/UID": "9780439023511",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Shining",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9780450040184",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Republic of Thieves",
+    "Authors": "Scott Lynch",
+    "ISBN/UID": "9780553804690",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Storm Warning",
+    "Authors": "Linda Sue Park",
+    "ISBN/UID": "9780545060493",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Authors": "J.K. Rowling",
+    "ISBN/UID": "9780590353427",
+    "Format": "paperback"
+  },
+  {
+    "Title": "BioShock: Rapture",
+    "Authors": "John Shirley",
+    "ISBN/UID": "",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Authors": "F. Scott Fitzgerald",
+    "ISBN/UID": "9780743273565",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Two Towers",
+    "Authors": "J.R.R. Tolkien",
+    "ISBN/UID": "9780618346264",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Black Circle",
+    "Authors": "Patrick Carman",
+    "ISBN/UID": "9780545060455",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Dune",
+    "Authors": "Frank Herbert",
+    "ISBN/UID": "9780593099322",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Bag of Bones",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9780671024239",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Viper's Nest",
+    "Authors": "Peter Lerangis",
+    "ISBN/UID": "9780545060479",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Bat",
+    "Authors": "Jo Nesbø",
+    "ISBN/UID": "9780345807090",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Red Rising",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780345539786",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "I Am Grimalkin",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780370332055",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Last Apprentice: Curse of the Bane (Book 2)",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780060766214",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Thunderhead",
+    "Authors": "Neal Shusterman",
+    "ISBN/UID": "9781442472457",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Slither",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780062192349",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Authors": "Fyodor Dostoevsky",
+    "ISBN/UID": "9781587263347",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Gleanings",
+    "Authors": "Neal Shusterman",
+    "ISBN/UID": "9781534499973",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Le Petit Prince: The little prince french edition",
+    "Authors": "Antoine de Saint-Exupéry",
+    "ISBN/UID": "",
+    "Format": "digital"
+  },
+  {
+    "Title": "The Perks of Being a Wallflower",
+    "Authors": "Stephen Chbosky",
+    "ISBN/UID": "147113346X",
+    "Format": "paperback"
+  },
+  {
+    "Title": "One False Note",
+    "Authors": "Gordon Korman",
+    "ISBN/UID": "9780545060424",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Lies of Locke Lamora",
+    "Authors": "Scott Lynch",
+    "ISBN/UID": "9780553804676",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "It",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9780450411434",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Rage of the Fallen",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780062027566",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Exo",
+    "Authors": "Fonda Lee",
+    "ISBN/UID": "9780545933438",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Golden Son",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780345539823",
+    "Format": "digital"
+  },
+  {
+    "Title": "The Stand",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9780385199575",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Morning Star",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780345539847",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Moby-Dick: Or, the Whale",
+    "Authors": "Herman Melville",
+    "ISBN/UID": "0142437247",
+    "Format": "paperback"
+  },
+  {
+    "Title": "East of Eden",
+    "Authors": "John Steinbeck",
+    "ISBN/UID": "9780142000656",
+    "Format": "paperback"
+  },
+  {
+    "Title": "And Then There Were None",
+    "Authors": "Agatha Christie",
+    "ISBN/UID": "9780312330873",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Attack of the Fiend",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780060891275",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Fellowship of the Ring ",
+    "Authors": "J.R.R. Tolkien",
+    "ISBN/UID": "9780618346257",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Queen of Nothing",
+    "Authors": "Holly Black",
+    "ISBN/UID": "9780316310406",
+    "Format": "digital"
+  },
+  {
+    "Title": "The Wicked King",
+    "Authors": "Holly Black",
+    "ISBN/UID": "9780316310338",
+    "Format": "digital"
+  },
+  {
+    "Title": "1984",
+    "Authors": "George Orwell",
+    "ISBN/UID": "9781328869333",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Beyond the Grave",
+    "Authors": "Jude Watson",
+    "ISBN/UID": "9780545060448",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "Authors": "James Clear",
+    "ISBN/UID": "9780735211292",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Spook's Sacrifice",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780370329321",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "In Too Deep",
+    "Authors": "Jude Watson",
+    "ISBN/UID": "9780545060462",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "I Am Alice",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780061715136",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Well of Ascension",
+    "Authors": "Brandon Sanderson",
+    "ISBN/UID": "9780765316882",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Sword Thief",
+    "Authors": "Peter Lerangis",
+    "ISBN/UID": "9780545135702",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Toll",
+    "Authors": "Neal Shusterman",
+    "ISBN/UID": "9781481497060",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Catching Fire",
+    "Authors": "Suzanne Collins",
+    "ISBN/UID": "9780439023498",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Revenge of the Witch",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780060766207",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Vespers Rising",
+    "Authors": "Rick Riordan, Gordon Korman, Peter Lerangis, Jude Watson",
+    "ISBN/UID": "9780545290593",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Dark Age",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780425285954",
+    "Format": "digital"
+  },
+  {
+    "Title": "The Talisman",
+    "Authors": "Peter Straub, Stephen King",
+    "ISBN/UID": "9780375507779",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Picture of Dorian Gray",
+    "Authors": "Oscar Wilde",
+    "ISBN/UID": "9798792366251",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Into the Gauntlet",
+    "Authors": "Margaret Peterson Haddix",
+    "ISBN/UID": "9780545060509",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Final Empire",
+    "Authors": "Brandon Sanderson",
+    "ISBN/UID": "9780765311788",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Return of the King",
+    "Authors": "J.R.R. Tolkien",
+    "ISBN/UID": "9780261102378",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Black House",
+    "Authors": "Peter Straub, Stephen King",
+    "ISBN/UID": "9780345470638",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Night of the Soul Stealer",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780060766245",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "American Gods",
+    "Authors": "Neil Gaiman",
+    "ISBN/UID": "",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Red Seas Under Red Skies",
+    "Authors": "Scott Lynch",
+    "ISBN/UID": "9780553804683",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Spook's Revenge",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780370332048",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Da Vinci Code",
+    "Authors": "Dan Brown",
+    "ISBN/UID": "9780385504201",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Count of Monte Cristo",
+    "Authors": "Alexandre Dumas",
+    "ISBN/UID": "9780140449266",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Emperor's Code",
+    "Authors": "Gordon Korman",
+    "ISBN/UID": "9780545060486",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "11/22/63",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9781451627282",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Cruel Prince",
+    "Authors": "Holly Black",
+    "ISBN/UID": "9780316310277",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Maze of Bones",
+    "Authors": "Rick Riordan",
+    "ISBN/UID": "9780545060394",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Light Bringer",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780425285978",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Lord of the Flies",
+    "Authors": "William Golding",
+    "ISBN/UID": "9780140283334",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Scythe",
+    "Authors": "Neal Shusterman",
+    "ISBN/UID": "1406379247",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Ready Player One",
+    "Authors": "Ernest Cline",
+    "ISBN/UID": "9780307887436",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Spook's Mistake",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780370329314",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Ready Player Two",
+    "Authors": "Ernest Cline",
+    "ISBN/UID": "9781524761332",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Dune Messiah",
+    "Authors": "Frank Herbert",
+    "ISBN/UID": "9780593098233",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Iron Gold",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780425285916",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Ballad of Songbirds and Snakes",
+    "Authors": "Suzanne Collins",
+    "ISBN/UID": "9781338635171",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Flowers for Algernon",
+    "Authors": "Daniel Keyes",
+    "ISBN/UID": "9780156030083",
+    "Format": "paperback"
+  },
+  {
+    "Title": "Rise of the Huntress",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780061715105",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Cross Fire",
+    "Authors": "Fonda Lee",
+    "ISBN/UID": "9781338139099",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "Hercule Poirot's Christmas",
+    "Authors": "Agatha Christie",
+    "ISBN/UID": "9780007120697",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Outsider (l'Étranger)",
+    "Authors": "Albert Camus",
+    "ISBN/UID": "9781786826657",
+    "Format": "paperback"
+  },
+  {
+    "Title": "The Hero of Ages",
+    "Authors": "Brandon Sanderson",
+    "ISBN/UID": "9780765316899",
+    "Format": "hardcover"
+  },
+  {
+    "Title": "The Spook's Blood",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "",
+    "Format": "digital"
+  },
+  {
+    "Title": "Anne Frank and Me",
+    "Authors": "Jeff Gottesfeld, Cherie Bennett",
+    "ISBN/UID": "9780698119734",
+    "Format": "paperback"
+  }
+]
