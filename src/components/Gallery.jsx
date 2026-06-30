@@ -1,4 +1,3 @@
-import { Card } from "react-bootstrap";
 import "./Gallery.css";
 import { useState, useEffect } from "react";
 
@@ -27,7 +26,7 @@ function Gallery() {
   ) : (
     <div id="grid">
       {books.map((book) => (
-        <div key={book.Title} className="card">
+        <div key={book.Title} className="card book-card text-center">
           <img
             src={book.thumbnail}
             alt="No Thumbnail"
