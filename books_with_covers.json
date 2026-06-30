@@ -1,0 +1,690 @@
+[
+  {
+    "Title": "Deep Work: Rules for Focused Success in a Distracted World",
+    "Authors": "Cal Newport",
+    "ISBN/UID": "9781455586691",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14859612-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14859612-L.jpg"
+  },
+  {
+    "Title": "A Game of Thrones",
+    "Authors": "George R.R. Martin",
+    "ISBN/UID": "9780553588484",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/373448-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/373448-L.jpg"
+  },
+  {
+    "Title": "The Hunger Games",
+    "Authors": "Suzanne Collins",
+    "ISBN/UID": "9780439023481",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/15167646-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/15167646-L.jpg"
+  },
+  {
+    "Title": "Mockingjay",
+    "Authors": "Suzanne Collins",
+    "ISBN/UID": "9780439023511",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12646459-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/12646459-L.jpg"
+  },
+  {
+    "Title": "The Shining",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9780450040184",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/291331-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/291331-L.jpg"
+  },
+  {
+    "Title": "The Republic of Thieves",
+    "Authors": "Scott Lynch",
+    "ISBN/UID": "9780553804690",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7761732-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/7761732-L.jpg"
+  },
+  {
+    "Title": "Storm Warning",
+    "Authors": "Linda Sue Park",
+    "ISBN/UID": "9780545060493",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6389100-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/6389100-L.jpg"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Authors": "J.K. Rowling",
+    "ISBN/UID": "9780590353427",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/15160586-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/15160586-L.jpg"
+  },
+  {
+    "Title": "BioShock: Rapture",
+    "Authors": "John Shirley",
+    "ISBN/UID": "",
+    "Format": "paperback",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Authors": "F. Scott Fitzgerald",
+    "ISBN/UID": "9780743273565",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14314120-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14314120-L.jpg"
+  },
+  {
+    "Title": "The Two Towers",
+    "Authors": "J.R.R. Tolkien",
+    "ISBN/UID": "9780618346264",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14624667-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14624667-L.jpg"
+  },
+  {
+    "Title": "The Black Circle",
+    "Authors": "Patrick Carman",
+    "ISBN/UID": "9780545060455",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6304310-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/6304310-L.jpg"
+  },
+  {
+    "Title": "Dune",
+    "Authors": "Frank Herbert",
+    "ISBN/UID": "9780593099322",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8792030-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/8792030-L.jpg"
+  },
+  {
+    "Title": "Bag of Bones",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9780671024239",
+    "Format": "paperback",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Viper's Nest",
+    "Authors": "Peter Lerangis",
+    "ISBN/UID": "9780545060479",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6304250-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/6304250-L.jpg"
+  },
+  {
+    "Title": "The Bat",
+    "Authors": "Jo Nesb\u00c3\u00b8",
+    "ISBN/UID": "9780345807090",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7391270-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/7391270-L.jpg"
+  },
+  {
+    "Title": "Red Rising",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780345539786",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8185003-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/8185003-L.jpg"
+  },
+  {
+    "Title": "I Am Grimalkin",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780370332055",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8407990-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/8407990-L.jpg"
+  },
+  {
+    "Title": "The Last Apprentice: Curse of the Bane (Book 2)",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780060766214",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/35372-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/35372-L.jpg"
+  },
+  {
+    "Title": "Thunderhead",
+    "Authors": "Neal Shusterman",
+    "ISBN/UID": "9781442472457",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/11048447-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/11048447-L.jpg"
+  },
+  {
+    "Title": "Slither",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780062192349",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7728297-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/7728297-L.jpg"
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Authors": "Fyodor Dostoevsky",
+    "ISBN/UID": "9781587263347",
+    "Format": "paperback",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "Gleanings",
+    "Authors": "Neal Shusterman",
+    "ISBN/UID": "9781534499973",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12993135-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/12993135-L.jpg"
+  },
+  {
+    "Title": "Le Petit Prince: The little prince french edition",
+    "Authors": "Antoine de Saint-Exup\u00c3\u00a9ry",
+    "ISBN/UID": "",
+    "Format": "digital",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Perks of Being a Wallflower",
+    "Authors": "Stephen Chbosky",
+    "ISBN/UID": "147113346X",
+    "Format": "paperback",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "One False Note",
+    "Authors": "Gordon Korman",
+    "ISBN/UID": "9780545060424",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6451071-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/6451071-L.jpg"
+  },
+  {
+    "Title": "The Lies of Locke Lamora",
+    "Authors": "Scott Lynch",
+    "ISBN/UID": "9780553804676",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12901690-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/12901690-L.jpg"
+  },
+  {
+    "Title": "It",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9780450411434",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/291381-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/291381-L.jpg"
+  },
+  {
+    "Title": "Rage of the Fallen",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780062027566",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7744376-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/7744376-L.jpg"
+  },
+  {
+    "Title": "Exo",
+    "Authors": "Fonda Lee",
+    "ISBN/UID": "9780545933438",
+    "Format": "hardcover",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "Golden Son",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780345539823",
+    "Format": "digital",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Stand",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9780385199575",
+    "Format": "hardcover",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "Morning Star",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780345539847",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8566174-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/8566174-L.jpg"
+  },
+  {
+    "Title": "Moby-Dick: Or, the Whale",
+    "Authors": "Herman Melville",
+    "ISBN/UID": "0142437247",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/110556-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/110556-L.jpg"
+  },
+  {
+    "Title": "East of Eden",
+    "Authors": "John Steinbeck",
+    "ISBN/UID": "9780142000656",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9255320-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/9255320-L.jpg"
+  },
+  {
+    "Title": "And Then There Were None",
+    "Authors": "Agatha Christie",
+    "ISBN/UID": "9780312330873",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12387509-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/12387509-L.jpg"
+  },
+  {
+    "Title": "Attack of the Fiend",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780060891275",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/7167600-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/7167600-L.jpg"
+  },
+  {
+    "Title": "The Fellowship of the Ring ",
+    "Authors": "J.R.R. Tolkien",
+    "ISBN/UID": "9780618346257",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14393948-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14393948-L.jpg"
+  },
+  {
+    "Title": "The Queen of Nothing",
+    "Authors": "Holly Black",
+    "ISBN/UID": "9780316310406",
+    "Format": "digital",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Wicked King",
+    "Authors": "Holly Black",
+    "ISBN/UID": "9780316310338",
+    "Format": "digital",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "1984",
+    "Authors": "George Orwell",
+    "ISBN/UID": "9781328869333",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8776812-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/8776812-L.jpg"
+  },
+  {
+    "Title": "Beyond the Grave",
+    "Authors": "Jude Watson",
+    "ISBN/UID": "9780545060448",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6300007-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/6300007-L.jpg"
+  },
+  {
+    "Title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "Authors": "James Clear",
+    "ISBN/UID": "9780735211292",
+    "Format": "hardcover",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Spook's Sacrifice",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780370329321",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8407985-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/8407985-L.jpg"
+  },
+  {
+    "Title": "In Too Deep",
+    "Authors": "Jude Watson",
+    "ISBN/UID": "9780545060462",
+    "Format": "hardcover",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "I Am Alice",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780061715136",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14588693-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14588693-L.jpg"
+  },
+  {
+    "Title": "The Well of Ascension",
+    "Authors": "Brandon Sanderson",
+    "ISBN/UID": "9780765316882",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/15206420-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/15206420-L.jpg"
+  },
+  {
+    "Title": "The Sword Thief",
+    "Authors": "Peter Lerangis",
+    "ISBN/UID": "9780545135702",
+    "Format": "hardcover",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Toll",
+    "Authors": "Neal Shusterman",
+    "ISBN/UID": "9781481497060",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12456258-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/12456258-L.jpg"
+  },
+  {
+    "Title": "Catching Fire",
+    "Authors": "Suzanne Collins",
+    "ISBN/UID": "9780439023498",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/15168572-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/15168572-L.jpg"
+  },
+  {
+    "Title": "Revenge of the Witch",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780060766207",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/13007287-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/13007287-L.jpg"
+  },
+  {
+    "Title": "Vespers Rising",
+    "Authors": "Rick Riordan, Gordon Korman, Peter Lerangis, Jude Watson",
+    "ISBN/UID": "9780545290593",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14831797-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14831797-L.jpg"
+  },
+  {
+    "Title": "Dark Age",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780425285954",
+    "Format": "digital",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Talisman",
+    "Authors": "Peter Straub, Stephen King",
+    "ISBN/UID": "9780375507779",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/228053-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/228053-L.jpg"
+  },
+  {
+    "Title": "The Picture of Dorian Gray",
+    "Authors": "Oscar Wilde",
+    "ISBN/UID": "9798792366251",
+    "Format": "paperback",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "Into the Gauntlet",
+    "Authors": "Margaret Peterson Haddix",
+    "ISBN/UID": "9780545060509",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6462950-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/6462950-L.jpg"
+  },
+  {
+    "Title": "The Final Empire",
+    "Authors": "Brandon Sanderson",
+    "ISBN/UID": "9780765311788",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/15134395-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/15134395-L.jpg"
+  },
+  {
+    "Title": "The Return of the King",
+    "Authors": "J.R.R. Tolkien",
+    "ISBN/UID": "9780261102378",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14625948-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14625948-L.jpg"
+  },
+  {
+    "Title": "Black House",
+    "Authors": "Peter Straub, Stephen King",
+    "ISBN/UID": "9780345470638",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/211463-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/211463-L.jpg"
+  },
+  {
+    "Title": "Night of the Soul Stealer",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780060766245",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/15030754-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/15030754-L.jpg"
+  },
+  {
+    "Title": "American Gods",
+    "Authors": "Neil Gaiman",
+    "ISBN/UID": "",
+    "Format": "paperback",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "Red Seas Under Red Skies",
+    "Authors": "Scott Lynch",
+    "ISBN/UID": "9780553804683",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/12193489-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/12193489-L.jpg"
+  },
+  {
+    "Title": "The Spook's Revenge",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780370332048",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10319872-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/10319872-L.jpg"
+  },
+  {
+    "Title": "The Da Vinci Code",
+    "Authors": "Dan Brown",
+    "ISBN/UID": "9780385504201",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/15207728-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/15207728-L.jpg"
+  },
+  {
+    "Title": "The Count of Monte Cristo",
+    "Authors": "Alexandre Dumas",
+    "ISBN/UID": "9780140449266",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14564134-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14564134-L.jpg"
+  },
+  {
+    "Title": "The Emperor's Code",
+    "Authors": "Gordon Korman",
+    "ISBN/UID": "9780545060486",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/6368477-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/6368477-L.jpg"
+  },
+  {
+    "Title": "11/22/63",
+    "Authors": "Stephen King",
+    "ISBN/UID": "9781451627282",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14652974-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14652974-L.jpg"
+  },
+  {
+    "Title": "The Cruel Prince",
+    "Authors": "Holly Black",
+    "ISBN/UID": "9780316310277",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14618029-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14618029-L.jpg"
+  },
+  {
+    "Title": "The Maze of Bones",
+    "Authors": "Rick Riordan",
+    "ISBN/UID": "9780545060394",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14859426-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14859426-L.jpg"
+  },
+  {
+    "Title": "Light Bringer",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780425285978",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14385410-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14385410-L.jpg"
+  },
+  {
+    "Title": "Lord of the Flies",
+    "Authors": "William Golding",
+    "ISBN/UID": "9780140283334",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/9176044-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/9176044-L.jpg"
+  },
+  {
+    "Title": "Scythe",
+    "Authors": "Neal Shusterman",
+    "ISBN/UID": "1406379247",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8542521-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/8542521-L.jpg"
+  },
+  {
+    "Title": "Ready Player One",
+    "Authors": "Ernest Cline",
+    "ISBN/UID": "9780307887436",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/8270105-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/8270105-L.jpg"
+  },
+  {
+    "Title": "The Spook's Mistake",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780370329314",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10533675-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/10533675-L.jpg"
+  },
+  {
+    "Title": "Ready Player Two",
+    "Authors": "Ernest Cline",
+    "ISBN/UID": "9781524761332",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10286189-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/10286189-L.jpg"
+  },
+  {
+    "Title": "Dune Messiah",
+    "Authors": "Frank Herbert",
+    "ISBN/UID": "9780593098233",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14322962-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14322962-L.jpg"
+  },
+  {
+    "Title": "Iron Gold",
+    "Authors": "Pierce Brown",
+    "ISBN/UID": "9780425285916",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/15093518-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/15093518-L.jpg"
+  },
+  {
+    "Title": "The Ballad of Songbirds and Snakes",
+    "Authors": "Suzanne Collins",
+    "ISBN/UID": "9781338635171",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10242930-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/10242930-L.jpg"
+  },
+  {
+    "Title": "Flowers for Algernon",
+    "Authors": "Daniel Keyes",
+    "ISBN/UID": "9780156030083",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10331950-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/10331950-L.jpg"
+  },
+  {
+    "Title": "Rise of the Huntress",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "9780061715105",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/14588703-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/14588703-L.jpg"
+  },
+  {
+    "Title": "Cross Fire",
+    "Authors": "Fonda Lee",
+    "ISBN/UID": "9781338139099",
+    "Format": "hardcover",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "Hercule Poirot's Christmas",
+    "Authors": "Agatha Christie",
+    "ISBN/UID": "9780007120697",
+    "Format": "paperback",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Outsider (l'\u00c3\u2030tranger)",
+    "Authors": "Albert Camus",
+    "ISBN/UID": "9781786826657",
+    "Format": "paperback",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "The Hero of Ages",
+    "Authors": "Brandon Sanderson",
+    "ISBN/UID": "9780765316899",
+    "Format": "hardcover",
+    "thumbnail": "https://covers.openlibrary.org/b/id/5698814-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/5698814-L.jpg"
+  },
+  {
+    "Title": "The Spook's Blood",
+    "Authors": "Joseph Delaney",
+    "ISBN/UID": "",
+    "Format": "digital",
+    "thumbnail": "No Thumbnail",
+    "fullImage": "No Cover"
+  },
+  {
+    "Title": "Anne Frank and Me",
+    "Authors": "Jeff Gottesfeld, Cherie Bennett",
+    "ISBN/UID": "9780698119734",
+    "Format": "paperback",
+    "thumbnail": "https://covers.openlibrary.org/b/id/10307198-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/10307198-L.jpg"
+  }
+]
