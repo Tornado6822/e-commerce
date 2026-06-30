@@ -14,7 +14,7 @@
   {
     "Title": "The Hunger Games",
     "Authors": "Suzanne Collins",
-    "ISBN/UID": "9780439023481",
+    "ISBN/UID": "9780545229937",
     "Format": "hardcover"
   },
   {
@@ -26,7 +26,7 @@
   {
     "Title": "The Shining",
     "Authors": "Stephen King",
-    "ISBN/UID": "9780450040184",
+    "ISBN/UID": "9780345806789",
     "Format": "paperback"
   },
   {
@@ -50,7 +50,7 @@
   {
     "Title": "BioShock: Rapture",
     "Authors": "John Shirley",
-    "ISBN/UID": "",
+    "ISBN/UID": "9781429949316",
     "Format": "paperback"
   },
   {
@@ -62,7 +62,7 @@
   {
     "Title": "The Two Towers",
     "Authors": "J.R.R. Tolkien",
-    "ISBN/UID": "9780618346264",
+    "ISBN/UID": "9780008376130",
     "Format": "paperback"
   },
   {
@@ -80,7 +80,7 @@
   {
     "Title": "Bag of Bones",
     "Authors": "Stephen King",
-    "ISBN/UID": "9780671024239",
+    "ISBN/UID": "9780684835419",
     "Format": "paperback"
   },
   {
@@ -92,7 +92,7 @@
   {
     "Title": "The Bat",
     "Authors": "Jo Nesbø",
-    "ISBN/UID": "9780345807090",
+    "ISBN/UID": "9780345807106",
     "Format": "paperback"
   },
   {
@@ -110,7 +110,7 @@
   {
     "Title": "The Last Apprentice: Curse of the Bane (Book 2)",
     "Authors": "Joseph Delaney",
-    "ISBN/UID": "9780060766214",
+    "ISBN/UID": "9780060766238",
     "Format": "hardcover"
   },
   {
@@ -122,13 +122,13 @@
   {
     "Title": "Slither",
     "Authors": "Joseph Delaney",
-    "ISBN/UID": "9780062192349",
+    "ISBN/UID": "9781782300151",
     "Format": "hardcover"
   },
   {
     "Title": "Crime and Punishment",
     "Authors": "Fyodor Dostoevsky",
-    "ISBN/UID": "9781587263347",
+    "ISBN/UID": "9780679734505",
     "Format": "paperback"
   },
   {
@@ -140,13 +140,13 @@
   {
     "Title": "Le Petit Prince: The little prince french edition",
     "Authors": "Antoine de Saint-Exupéry",
-    "ISBN/UID": "",
+    "ISBN/UID": "9780156013987",
     "Format": "digital"
   },
   {
     "Title": "The Perks of Being a Wallflower",
     "Authors": "Stephen Chbosky",
-    "ISBN/UID": "147113346X",
+    "ISBN/UID": "9781439122433",
     "Format": "paperback"
   },
   {
@@ -158,7 +158,7 @@
   {
     "Title": "The Lies of Locke Lamora",
     "Authors": "Scott Lynch",
-    "ISBN/UID": "9780553804676",
+    "ISBN/UID": "9780575079755",
     "Format": "hardcover"
   },
   {
@@ -176,19 +176,19 @@
   {
     "Title": "Exo",
     "Authors": "Fonda Lee",
-    "ISBN/UID": "9780545933438",
+    "ISBN/UID": "9781338232035",
     "Format": "hardcover"
   },
   {
     "Title": "Golden Son",
     "Authors": "Pierce Brown",
-    "ISBN/UID": "9780345539823",
+    "ISBN/UID": "9780345539830",
     "Format": "digital"
   },
   {
     "Title": "The Stand",
     "Authors": "Stephen King",
-    "ISBN/UID": "9780385199575",
+    "ISBN/UID": "9780385528856",
     "Format": "hardcover"
   },
   {
@@ -230,13 +230,13 @@
   {
     "Title": "The Queen of Nothing",
     "Authors": "Holly Black",
-    "ISBN/UID": "9780316310406",
+    "ISBN/UID": "9780316310420",
     "Format": "digital"
   },
   {
     "Title": "The Wicked King",
     "Authors": "Holly Black",
-    "ISBN/UID": "9780316310338",
+    "ISBN/UID": "9780316310321",
     "Format": "digital"
   },
   {
@@ -254,7 +254,7 @@
   {
     "Title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "Authors": "James Clear",
-    "ISBN/UID": "9780735211292",
+    "ISBN/UID": "9781847941848",
     "Format": "hardcover"
   },
   {
@@ -266,7 +266,7 @@
   {
     "Title": "In Too Deep",
     "Authors": "Jude Watson",
-    "ISBN/UID": "9780545060462",
+    "ISBN/UID": "9780545090643",
     "Format": "hardcover"
   },
   {
@@ -284,7 +284,7 @@
   {
     "Title": "The Sword Thief",
     "Authors": "Peter Lerangis",
-    "ISBN/UID": "9780545135702",
+    "ISBN/UID": "9780545090599",
     "Format": "hardcover"
   },
   {
@@ -296,7 +296,7 @@
   {
     "Title": "Catching Fire",
     "Authors": "Suzanne Collins",
-    "ISBN/UID": "9780439023498",
+    "ISBN/UID": "9780545586177",
     "Format": "hardcover"
   },
   {
@@ -314,7 +314,7 @@
   {
     "Title": "Dark Age",
     "Authors": "Pierce Brown",
-    "ISBN/UID": "9780425285954",
+    "ISBN/UID": "9780425285961",
     "Format": "digital"
   },
   {
@@ -326,7 +326,7 @@
   {
     "Title": "The Picture of Dorian Gray",
     "Authors": "Oscar Wilde",
-    "ISBN/UID": "9798792366251",
+    "ISBN/UID": "9781548296742",
     "Format": "paperback"
   },
   {
@@ -362,7 +362,7 @@
   {
     "Title": "American Gods",
     "Authors": "Neil Gaiman",
-    "ISBN/UID": "",
+    "ISBN/UID": "9780063081918",
     "Format": "paperback"
   },
   {
@@ -480,21 +480,15 @@
     "Format": "hardcover"
   },
   {
-    "Title": "Cross Fire",
-    "Authors": "Fonda Lee",
-    "ISBN/UID": "9781338139099",
-    "Format": "hardcover"
-  },
-  {
     "Title": "Hercule Poirot's Christmas",
     "Authors": "Agatha Christie",
-    "ISBN/UID": "9780007120697",
+    "ISBN/UID": "9780063143555",
     "Format": "paperback"
   },
   {
     "Title": "The Outsider (l'Étranger)",
     "Authors": "Albert Camus",
-    "ISBN/UID": "9781786826657",
+    "ISBN/UID": "9780679720201",
     "Format": "paperback"
   },
   {
@@ -506,7 +500,7 @@
   {
     "Title": "The Spook's Blood",
     "Authors": "Joseph Delaney",
-    "ISBN/UID": "",
+    "ISBN/UID": "9781782952558",
     "Format": "digital"
   },
   {
