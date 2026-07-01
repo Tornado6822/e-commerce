@@ -40,11 +40,9 @@ for book in books:
 
     randNum = random.randrange(0,2)
 
-    if(randNum == 0):
-        book["Format"] = "paperback"
+    if(book["Format"] == "paperback" or book["Format"] == "digital"):
         book["Price"] = random.randrange(8,20);
     else:
-        book["Format"] = "hardcover"
         book["Price"] = random.randrange(25,40);
 
     books_with_covers.append(book)

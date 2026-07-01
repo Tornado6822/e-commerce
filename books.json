@@ -3,510 +3,680 @@
     "Title": "Deep Work: Rules for Focused Success in a Distracted World",
     "Authors": "Cal Newport",
     "ISBN/UID": "9781455586691",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "nonfiction",
+    "Genre": "selfhelp"
   },
   {
     "Title": "A Game of Thrones",
     "Authors": "George R.R. Martin",
     "ISBN/UID": "9780553588484",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Hunger Games",
     "Authors": "Suzanne Collins",
     "ISBN/UID": "9780545229937",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Mockingjay",
     "Authors": "Suzanne Collins",
     "ISBN/UID": "9780439023511",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "The Shining",
     "Authors": "Stephen King",
     "ISBN/UID": "9780345806789",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "horror"
   },
   {
     "Title": "The Republic of Thieves",
     "Authors": "Scott Lynch",
     "ISBN/UID": "9780553804690",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "Storm Warning",
     "Authors": "Linda Sue Park",
     "ISBN/UID": "9780545060493",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Harry Potter and the Sorcerer's Stone",
     "Authors": "J.K. Rowling",
     "ISBN/UID": "9780590353427",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "BioShock: Rapture",
     "Authors": "John Shirley",
     "ISBN/UID": "9781429949316",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "The Great Gatsby",
     "Authors": "F. Scott Fitzgerald",
     "ISBN/UID": "9780743273565",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "classics"
   },
   {
     "Title": "The Two Towers",
     "Authors": "J.R.R. Tolkien",
     "ISBN/UID": "9780008376130",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Black Circle",
     "Authors": "Patrick Carman",
     "ISBN/UID": "9780545060455",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Dune",
     "Authors": "Frank Herbert",
     "ISBN/UID": "9780593099322",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "Bag of Bones",
     "Authors": "Stephen King",
     "ISBN/UID": "9780684835419",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "horror"
   },
   {
     "Title": "The Viper's Nest",
     "Authors": "Peter Lerangis",
     "ISBN/UID": "9780545060479",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "The Bat",
     "Authors": "Jo Nesbø",
     "ISBN/UID": "9780345807106",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "mystery"
   },
   {
     "Title": "Red Rising",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780345539786",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "I Am Grimalkin",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780370332055",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Last Apprentice: Curse of the Bane (Book 2)",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780060766238",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "Thunderhead",
     "Authors": "Neal Shusterman",
     "ISBN/UID": "9781442472457",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Slither",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9781782300151",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "Crime and Punishment",
     "Authors": "Fyodor Dostoevsky",
     "ISBN/UID": "9780679734505",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "classics"
   },
   {
     "Title": "Gleanings",
     "Authors": "Neal Shusterman",
     "ISBN/UID": "9781534499973",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Le Petit Prince: The little prince french edition",
     "Authors": "Antoine de Saint-Exupéry",
     "ISBN/UID": "9780156013987",
-    "Format": "digital"
+    "Format": "digital",
+    "Category": "youngadult",
+    "Genre": "classics"
   },
   {
     "Title": "The Perks of Being a Wallflower",
     "Authors": "Stephen Chbosky",
     "ISBN/UID": "9781439122433",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "misc"
   },
   {
     "Title": "One False Note",
     "Authors": "Gordon Korman",
     "ISBN/UID": "9780545060424",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "The Lies of Locke Lamora",
     "Authors": "Scott Lynch",
     "ISBN/UID": "9780575079755",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "It",
     "Authors": "Stephen King",
     "ISBN/UID": "9780450411434",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "horror"
   },
   {
     "Title": "Rage of the Fallen",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780062027566",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "Exo",
     "Authors": "Fonda Lee",
     "ISBN/UID": "9781338232035",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Golden Son",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780345539830",
-    "Format": "digital"
+    "Format": "digital",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "The Stand",
     "Authors": "Stephen King",
     "ISBN/UID": "9780385528856",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "horror"
   },
   {
     "Title": "Morning Star",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780345539847",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "Moby-Dick: Or, the Whale",
     "Authors": "Herman Melville",
     "ISBN/UID": "0142437247",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "classics"
   },
   {
     "Title": "East of Eden",
     "Authors": "John Steinbeck",
     "ISBN/UID": "9780142000656",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "classics"
   },
   {
     "Title": "And Then There Were None",
     "Authors": "Agatha Christie",
     "ISBN/UID": "9780312330873",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "mystery"
   },
   {
     "Title": "Attack of the Fiend",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780060891275",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Fellowship of the Ring ",
     "Authors": "J.R.R. Tolkien",
     "ISBN/UID": "9780618346257",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Queen of Nothing",
     "Authors": "Holly Black",
     "ISBN/UID": "9780316310420",
-    "Format": "digital"
+    "Format": "digital",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Wicked King",
     "Authors": "Holly Black",
     "ISBN/UID": "9780316310321",
-    "Format": "digital"
+    "Format": "digital",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "1984",
     "Authors": "George Orwell",
     "ISBN/UID": "9781328869333",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "Beyond the Grave",
     "Authors": "Jude Watson",
     "ISBN/UID": "9780545060448",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "Authors": "James Clear",
     "ISBN/UID": "9781847941848",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "nonfiction",
+    "Genre": "selfhelp"
   },
   {
     "Title": "The Spook's Sacrifice",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780370329321",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "In Too Deep",
     "Authors": "Jude Watson",
     "ISBN/UID": "9780545090643",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "I Am Alice",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780061715136",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Well of Ascension",
     "Authors": "Brandon Sanderson",
     "ISBN/UID": "9780765316882",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Sword Thief",
     "Authors": "Peter Lerangis",
     "ISBN/UID": "9780545090599",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "The Toll",
     "Authors": "Neal Shusterman",
     "ISBN/UID": "9781481497060",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Catching Fire",
     "Authors": "Suzanne Collins",
     "ISBN/UID": "9780545586177",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Revenge of the Witch",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780060766207",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "Vespers Rising",
     "Authors": "Rick Riordan, Gordon Korman, Peter Lerangis, Jude Watson",
     "ISBN/UID": "9780545290593",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Dark Age",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780425285961",
-    "Format": "digital"
+    "Format": "digital",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "The Talisman",
     "Authors": "Peter Straub, Stephen King",
     "ISBN/UID": "9780375507779",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "horror"
   },
   {
     "Title": "The Picture of Dorian Gray",
     "Authors": "Oscar Wilde",
     "ISBN/UID": "9781548296742",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "classics"
   },
   {
     "Title": "Into the Gauntlet",
     "Authors": "Margaret Peterson Haddix",
     "ISBN/UID": "9780545060509",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "The Final Empire",
     "Authors": "Brandon Sanderson",
     "ISBN/UID": "9780765311788",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Return of the King",
     "Authors": "J.R.R. Tolkien",
     "ISBN/UID": "9780261102378",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "Black House",
     "Authors": "Peter Straub, Stephen King",
     "ISBN/UID": "9780345470638",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "horror"
   },
   {
     "Title": "Night of the Soul Stealer",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780060766245",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "American Gods",
     "Authors": "Neil Gaiman",
     "ISBN/UID": "9780063081918",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "Red Seas Under Red Skies",
     "Authors": "Scott Lynch",
     "ISBN/UID": "9780553804683",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Spook's Revenge",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780370332048",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Da Vinci Code",
     "Authors": "Dan Brown",
     "ISBN/UID": "9780385504201",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "mystery"
   },
   {
     "Title": "The Count of Monte Cristo",
     "Authors": "Alexandre Dumas",
     "ISBN/UID": "9780140449266",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "classics"
   },
   {
     "Title": "The Emperor's Code",
     "Authors": "Gordon Korman",
     "ISBN/UID": "9780545060486",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "11/22/63",
     "Authors": "Stephen King",
     "ISBN/UID": "9781451627282",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "The Cruel Prince",
     "Authors": "Holly Black",
     "ISBN/UID": "9780316310277",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Maze of Bones",
     "Authors": "Rick Riordan",
     "ISBN/UID": "9780545060394",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Light Bringer",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780425285978",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "Lord of the Flies",
     "Authors": "William Golding",
     "ISBN/UID": "9780140283334",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "classics"
   },
   {
     "Title": "Scythe",
     "Authors": "Neal Shusterman",
     "ISBN/UID": "1406379247",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Ready Player One",
     "Authors": "Ernest Cline",
     "ISBN/UID": "9780307887436",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "The Spook's Mistake",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780370329314",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "Ready Player Two",
     "Authors": "Ernest Cline",
     "ISBN/UID": "9781524761332",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "Dune Messiah",
     "Authors": "Frank Herbert",
     "ISBN/UID": "9780593098233",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "Iron Gold",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780425285916",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "The Ballad of Songbirds and Snakes",
     "Authors": "Suzanne Collins",
     "ISBN/UID": "9781338635171",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "scifi"
   },
   {
     "Title": "Flowers for Algernon",
     "Authors": "Daniel Keyes",
     "ISBN/UID": "9780156030083",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "scifi"
   },
   {
     "Title": "Rise of the Huntress",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780061715105",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "Hercule Poirot's Christmas",
     "Authors": "Agatha Christie",
     "ISBN/UID": "9780063143555",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "mystery"
   },
   {
     "Title": "The Outsider (l'Étranger)",
     "Authors": "Albert Camus",
     "ISBN/UID": "9780679720201",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "classics"
   },
   {
     "Title": "The Hero of Ages",
     "Authors": "Brandon Sanderson",
     "ISBN/UID": "9780765316899",
-    "Format": "hardcover"
+    "Format": "hardcover",
+    "Category": "fiction",
+    "Genre": "fantasy"
   },
   {
     "Title": "The Spook's Blood",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9781782952558",
-    "Format": "digital"
+    "Format": "digital",
+    "Category": "youngadult",
+    "Genre": "fantasy"
   },
   {
     "Title": "Anne Frank and Me",
     "Authors": "Jeff Gottesfeld, Cherie Bennett",
     "ISBN/UID": "9780698119734",
-    "Format": "paperback"
+    "Format": "paperback",
+    "Category": "fiction",
+    "Genre": "scifi"
   }
 ]
