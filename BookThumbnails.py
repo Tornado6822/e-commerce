@@ -1,5 +1,7 @@
 import json
 import requests
+import random
+
 
 with open("books.json", "r") as f:
     books = json.load(f)
@@ -15,6 +17,7 @@ for book in books:
         data = response.json()
         
         book_data = data.get(f"ISBN:{ISBN}")
+        print(book_data)
 
         if book_data and "cover" in book_data:
             thumbnail = book_data["cover"].get("medium")
@@ -25,13 +28,30 @@ for book in books:
 
         book["thumbnail"] = thumbnail
         book["fullImage"] = fullImage
-        books_with_covers.append(book)
+        if("number_of_pages" in book_data):
+            book["Pages"] = book_data.get("number_of_pages")
+        else:
+            book["Pages"] = "No num_of_pages"
+
     else:
         book["thumbnail"] = "No Thumbnail"
         book["fullImage"] = "No Cover"
-        books_with_covers.append(book)
+        book["Pages"] = "No num_of_pages"
+
+    randNum = random.randrange(0,2)
+
+    if(randNum == 0):
+        book["Format"] = "paperback"
+        book["Price"] = random.randrange(8,20);
+    else:
+        book["Format"] = "hardcover"
+        book["Price"] = random.randrange(25,40);
+
+    books_with_covers.append(book)
     
 with open("books_with_covers.json", "w") as file:
     json.dump(books_with_covers, file)
 
 print("Success!")
+
+

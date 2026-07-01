@@ -5,39 +5,49 @@
     "ISBN/UID": "9781455586691",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14859612-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14859612-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14859612-L.jpg",
+    "Pages": 295,
+    "Price": 27
   },
   {
     "Title": "A Game of Thrones",
     "Authors": "George R.R. Martin",
     "ISBN/UID": "9780553588484",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/373448-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/373448-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/373448-L.jpg",
+    "Pages": 835,
+    "Price": 34
   },
   {
     "Title": "The Hunger Games",
     "Authors": "Suzanne Collins",
     "ISBN/UID": "9780545229937",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/10511383-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/10511383-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/10511383-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 10
   },
   {
     "Title": "Mockingjay",
     "Authors": "Suzanne Collins",
     "ISBN/UID": "9780439023511",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/12646459-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/12646459-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/12646459-L.jpg",
+    "Pages": 398,
+    "Price": 17
   },
   {
     "Title": "The Shining",
     "Authors": "Stephen King",
     "ISBN/UID": "9780345806789",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/9271453-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/9271453-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/9271453-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 26
   },
   {
     "Title": "The Republic of Thieves",
@@ -45,7 +55,9 @@
     "ISBN/UID": "9780553804690",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/7761732-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/7761732-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/7761732-L.jpg",
+    "Pages": 650,
+    "Price": 30
   },
   {
     "Title": "Storm Warning",
@@ -53,15 +65,19 @@
     "ISBN/UID": "9780545060493",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/6389100-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/6389100-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/6389100-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 37
   },
   {
     "Title": "Harry Potter and the Sorcerer's Stone",
     "Authors": "J.K. Rowling",
     "ISBN/UID": "9780590353427",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/15160586-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/15160586-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/15160586-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 26
   },
   {
     "Title": "BioShock: Rapture",
@@ -69,7 +85,9 @@
     "ISBN/UID": "9781429949316",
     "Format": "paperback",
     "thumbnail": "No Thumbnail",
-    "fullImage": "No Cover"
+    "fullImage": "No Cover",
+    "Pages": "No num_of_pages",
+    "Price": 19
   },
   {
     "Title": "The Great Gatsby",
@@ -77,7 +95,9 @@
     "ISBN/UID": "9780743273565",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/14314120-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14314120-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14314120-L.jpg",
+    "Pages": 208,
+    "Price": 13
   },
   {
     "Title": "The Two Towers",
@@ -85,23 +105,29 @@
     "ISBN/UID": "9780008376130",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/15101803-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/15101803-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/15101803-L.jpg",
+    "Pages": 385,
+    "Price": 12
   },
   {
     "Title": "The Black Circle",
     "Authors": "Patrick Carman",
     "ISBN/UID": "9780545060455",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/6304310-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/6304310-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/6304310-L.jpg",
+    "Pages": 176,
+    "Price": 16
   },
   {
     "Title": "Dune",
     "Authors": "Frank Herbert",
     "ISBN/UID": "9780593099322",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8792030-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8792030-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8792030-L.jpg",
+    "Pages": 688,
+    "Price": 12
   },
   {
     "Title": "Bag of Bones",
@@ -109,15 +135,19 @@
     "ISBN/UID": "9780684835419",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8659031-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8659031-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8659031-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 17
   },
   {
     "Title": "The Viper's Nest",
     "Authors": "Peter Lerangis",
     "ISBN/UID": "9780545060479",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/6304250-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/6304250-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/6304250-L.jpg",
+    "Pages": 176,
+    "Price": 19
   },
   {
     "Title": "The Bat",
@@ -125,7 +155,9 @@
     "ISBN/UID": "9780345807106",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/7391270-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/7391270-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/7391270-L.jpg",
+    "Pages": 369,
+    "Price": 16
   },
   {
     "Title": "Red Rising",
@@ -133,31 +165,39 @@
     "ISBN/UID": "9780345539786",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/8185003-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8185003-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8185003-L.jpg",
+    "Pages": 416,
+    "Price": 35
   },
   {
     "Title": "I Am Grimalkin",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780370332055",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8407990-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8407990-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8407990-L.jpg",
+    "Pages": 448,
+    "Price": 10
   },
   {
     "Title": "The Last Apprentice: Curse of the Bane (Book 2)",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780060766238",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/14588704-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14588704-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14588704-L.jpg",
+    "Pages": 496,
+    "Price": 14
   },
   {
     "Title": "Thunderhead",
     "Authors": "Neal Shusterman",
     "ISBN/UID": "9781442472457",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/11048447-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/11048447-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/11048447-L.jpg",
+    "Pages": 504,
+    "Price": 8
   },
   {
     "Title": "Slither",
@@ -165,7 +205,9 @@
     "ISBN/UID": "9781782300151",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/7631199-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/7631199-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/7631199-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 25
   },
   {
     "Title": "Crime and Punishment",
@@ -173,7 +215,9 @@
     "ISBN/UID": "9780679734505",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/14598234-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14598234-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14598234-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 14
   },
   {
     "Title": "Gleanings",
@@ -181,15 +225,19 @@
     "ISBN/UID": "9781534499973",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/12993135-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/12993135-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/12993135-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 28
   },
   {
     "Title": "Le Petit Prince: The little prince french edition",
     "Authors": "Antoine de Saint-Exup\u00c3\u00a9ry",
     "ISBN/UID": "9780156013987",
-    "Format": "digital",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/115553-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/115553-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/115553-L.jpg",
+    "Pages": 85,
+    "Price": 35
   },
   {
     "Title": "The Perks of Being a Wallflower",
@@ -197,15 +245,19 @@
     "ISBN/UID": "9781439122433",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8347423-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8347423-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8347423-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 18
   },
   {
     "Title": "One False Note",
     "Authors": "Gordon Korman",
     "ISBN/UID": "9780545060424",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/6451071-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/6451071-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/6451071-L.jpg",
+    "Pages": 174,
+    "Price": 15
   },
   {
     "Title": "The Lies of Locke Lamora",
@@ -213,7 +265,9 @@
     "ISBN/UID": "9780575079755",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/380481-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/380481-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/380481-L.jpg",
+    "Pages": 544,
+    "Price": 33
   },
   {
     "Title": "It",
@@ -221,39 +275,49 @@
     "ISBN/UID": "9780450411434",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/291381-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/291381-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/291381-L.jpg",
+    "Pages": 1120,
+    "Price": 15
   },
   {
     "Title": "Rage of the Fallen",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780062027566",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/7744376-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/7744376-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/7744376-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 18
   },
   {
     "Title": "Exo",
     "Authors": "Fonda Lee",
     "ISBN/UID": "9781338232035",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8827450-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8827450-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8827450-L.jpg",
+    "Pages": 400,
+    "Price": 18
   },
   {
     "Title": "Golden Son",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780345539830",
-    "Format": "digital",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8761250-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8761250-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8761250-L.jpg",
+    "Pages": 464,
+    "Price": 16
   },
   {
     "Title": "The Stand",
     "Authors": "Stephen King",
     "ISBN/UID": "9780385528856",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/9366573-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/9366573-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/9366573-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 8
   },
   {
     "Title": "Morning Star",
@@ -261,7 +325,9 @@
     "ISBN/UID": "9780345539847",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/8566174-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8566174-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8566174-L.jpg",
+    "Pages": 544,
+    "Price": 35
   },
   {
     "Title": "Moby-Dick: Or, the Whale",
@@ -269,7 +335,9 @@
     "ISBN/UID": "0142437247",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/110556-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/110556-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/110556-L.jpg",
+    "Pages": 654,
+    "Price": 9
   },
   {
     "Title": "East of Eden",
@@ -277,15 +345,19 @@
     "ISBN/UID": "9780142000656",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/9255320-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/9255320-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/9255320-L.jpg",
+    "Pages": 601,
+    "Price": 12
   },
   {
     "Title": "And Then There Were None",
     "Authors": "Agatha Christie",
     "ISBN/UID": "9780312330873",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/12387509-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/12387509-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/12387509-L.jpg",
+    "Pages": 277,
+    "Price": 27
   },
   {
     "Title": "Attack of the Fiend",
@@ -293,47 +365,59 @@
     "ISBN/UID": "9780060891275",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/7167600-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/7167600-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/7167600-L.jpg",
+    "Pages": 532,
+    "Price": 29
   },
   {
     "Title": "The Fellowship of the Ring ",
     "Authors": "J.R.R. Tolkien",
     "ISBN/UID": "9780618346257",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14393948-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14393948-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14393948-L.jpg",
+    "Pages": 398,
+    "Price": 26
   },
   {
     "Title": "The Queen of Nothing",
     "Authors": "Holly Black",
     "ISBN/UID": "9780316310420",
-    "Format": "digital",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/9146990-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/9146990-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/9146990-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 13
   },
   {
     "Title": "The Wicked King",
     "Authors": "Holly Black",
     "ISBN/UID": "9780316310321",
-    "Format": "digital",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/14398104-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14398104-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14398104-L.jpg",
+    "Pages": 322,
+    "Price": 13
   },
   {
     "Title": "1984",
     "Authors": "George Orwell",
     "ISBN/UID": "9781328869333",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8776812-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8776812-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8776812-L.jpg",
+    "Pages": 304,
+    "Price": 15
   },
   {
     "Title": "Beyond the Grave",
     "Authors": "Jude Watson",
     "ISBN/UID": "9780545060448",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/6300007-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/6300007-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/6300007-L.jpg",
+    "Pages": 192,
+    "Price": 12
   },
   {
     "Title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -341,31 +425,39 @@
     "ISBN/UID": "9781847941848",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/10538014-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/10538014-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/10538014-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 37
   },
   {
     "Title": "The Spook's Sacrifice",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780370329321",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8407985-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8407985-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8407985-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 17
   },
   {
     "Title": "In Too Deep",
     "Authors": "Jude Watson",
     "ISBN/UID": "9780545090643",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/6670982-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/6670982-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/6670982-L.jpg",
+    "Pages": 206,
+    "Price": 15
   },
   {
     "Title": "I Am Alice",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780061715136",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/14588693-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14588693-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14588693-L.jpg",
+    "Pages": 432,
+    "Price": 13
   },
   {
     "Title": "The Well of Ascension",
@@ -373,7 +465,9 @@
     "ISBN/UID": "9780765316882",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/15206420-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/15206420-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/15206420-L.jpg",
+    "Pages": 592,
+    "Price": 32
   },
   {
     "Title": "The Sword Thief",
@@ -381,7 +475,9 @@
     "ISBN/UID": "9780545090599",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/9285564-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/9285564-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/9285564-L.jpg",
+    "Pages": 156,
+    "Price": 28
   },
   {
     "Title": "The Toll",
@@ -389,7 +485,9 @@
     "ISBN/UID": "9781481497060",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/12456258-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/12456258-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/12456258-L.jpg",
+    "Pages": 625,
+    "Price": 27
   },
   {
     "Title": "Catching Fire",
@@ -397,15 +495,19 @@
     "ISBN/UID": "9780545586177",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/12646682-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/12646682-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/12646682-L.jpg",
+    "Pages": 391,
+    "Price": 39
   },
   {
     "Title": "Revenge of the Witch",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780060766207",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/13007287-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/13007287-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/13007287-L.jpg",
+    "Pages": 340,
+    "Price": 37
   },
   {
     "Title": "Vespers Rising",
@@ -413,55 +515,69 @@
     "ISBN/UID": "9780545290593",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14831797-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14831797-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14831797-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 31
   },
   {
     "Title": "Dark Age",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780425285961",
-    "Format": "digital",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/11978659-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/11978659-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/11978659-L.jpg",
+    "Pages": 800,
+    "Price": 30
   },
   {
     "Title": "The Talisman",
     "Authors": "Peter Straub, Stephen King",
     "ISBN/UID": "9780375507779",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/228053-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/228053-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/228053-L.jpg",
+    "Pages": 652,
+    "Price": 16
   },
   {
     "Title": "The Picture of Dorian Gray",
     "Authors": "Oscar Wilde",
     "ISBN/UID": "9781548296742",
     "Format": "paperback",
-    "thumbnail": "No Thumbnail",
-    "fullImage": "No Cover"
+    "thumbnail": "https://covers.openlibrary.org/b/id/12387545-M.jpg",
+    "fullImage": "https://covers.openlibrary.org/b/id/12387545-L.jpg",
+    "Pages": 96,
+    "Price": 19
   },
   {
     "Title": "Into the Gauntlet",
     "Authors": "Margaret Peterson Haddix",
     "ISBN/UID": "9780545060509",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/6462950-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/6462950-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/6462950-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 16
   },
   {
     "Title": "The Final Empire",
     "Authors": "Brandon Sanderson",
     "ISBN/UID": "9780765311788",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/15134395-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/15134395-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/15134395-L.jpg",
+    "Pages": 541,
+    "Price": 8
   },
   {
     "Title": "The Return of the King",
     "Authors": "J.R.R. Tolkien",
     "ISBN/UID": "9780261102378",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14625948-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14625948-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14625948-L.jpg",
+    "Pages": 560,
+    "Price": 26
   },
   {
     "Title": "Black House",
@@ -469,23 +585,29 @@
     "ISBN/UID": "9780345470638",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/211463-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/211463-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/211463-L.jpg",
+    "Pages": 688,
+    "Price": 10
   },
   {
     "Title": "Night of the Soul Stealer",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780060766245",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/15030754-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/15030754-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/15030754-L.jpg",
+    "Pages": 489,
+    "Price": 16
   },
   {
     "Title": "American Gods",
     "Authors": "Neil Gaiman",
     "ISBN/UID": "9780063081918",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/12004359-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/12004359-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/12004359-L.jpg",
+    "Pages": 560,
+    "Price": 26
   },
   {
     "Title": "Red Seas Under Red Skies",
@@ -493,23 +615,29 @@
     "ISBN/UID": "9780553804683",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/12193489-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/12193489-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/12193489-L.jpg",
+    "Pages": 558,
+    "Price": 32
   },
   {
     "Title": "The Spook's Revenge",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780370332048",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/10319872-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/10319872-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/10319872-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 16
   },
   {
     "Title": "The Da Vinci Code",
     "Authors": "Dan Brown",
     "ISBN/UID": "9780385504201",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/15207728-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/15207728-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/15207728-L.jpg",
+    "Pages": 470,
+    "Price": 18
   },
   {
     "Title": "The Count of Monte Cristo",
@@ -517,15 +645,19 @@
     "ISBN/UID": "9780140449266",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/14564134-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14564134-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14564134-L.jpg",
+    "Pages": 1276,
+    "Price": 11
   },
   {
     "Title": "The Emperor's Code",
     "Authors": "Gordon Korman",
     "ISBN/UID": "9780545060486",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/6368477-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/6368477-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/6368477-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 9
   },
   {
     "Title": "11/22/63",
@@ -533,7 +665,9 @@
     "ISBN/UID": "9781451627282",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14652974-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14652974-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14652974-L.jpg",
+    "Pages": 849,
+    "Price": 31
   },
   {
     "Title": "The Cruel Prince",
@@ -541,15 +675,19 @@
     "ISBN/UID": "9780316310277",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14618029-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14618029-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14618029-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 29
   },
   {
     "Title": "The Maze of Bones",
     "Authors": "Rick Riordan",
     "ISBN/UID": "9780545060394",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/14859426-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14859426-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14859426-L.jpg",
+    "Pages": 220,
+    "Price": 9
   },
   {
     "Title": "Light Bringer",
@@ -557,15 +695,19 @@
     "ISBN/UID": "9780425285978",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14385410-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14385410-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14385410-L.jpg",
+    "Pages": 480,
+    "Price": 26
   },
   {
     "Title": "Lord of the Flies",
     "Authors": "William Golding",
     "ISBN/UID": "9780140283334",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/9176044-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/9176044-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/9176044-L.jpg",
+    "Pages": 192,
+    "Price": 31
   },
   {
     "Title": "Scythe",
@@ -573,7 +715,9 @@
     "ISBN/UID": "1406379247",
     "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/8542521-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8542521-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8542521-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 11
   },
   {
     "Title": "Ready Player One",
@@ -581,15 +725,19 @@
     "ISBN/UID": "9780307887436",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/8270105-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/8270105-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/8270105-L.jpg",
+    "Pages": 374,
+    "Price": 31
   },
   {
     "Title": "The Spook's Mistake",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9780370329314",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/10533675-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/10533675-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/10533675-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 12
   },
   {
     "Title": "Ready Player Two",
@@ -597,23 +745,29 @@
     "ISBN/UID": "9781524761332",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/10286189-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/10286189-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/10286189-L.jpg",
+    "Pages": 384,
+    "Price": 34
   },
   {
     "Title": "Dune Messiah",
     "Authors": "Frank Herbert",
     "ISBN/UID": "9780593098233",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14322962-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14322962-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14322962-L.jpg",
+    "Pages": 352,
+    "Price": 37
   },
   {
     "Title": "Iron Gold",
     "Authors": "Pierce Brown",
     "ISBN/UID": "9780425285916",
-    "Format": "hardcover",
+    "Format": "paperback",
     "thumbnail": "https://covers.openlibrary.org/b/id/15093518-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/15093518-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/15093518-L.jpg",
+    "Pages": 601,
+    "Price": 10
   },
   {
     "Title": "The Ballad of Songbirds and Snakes",
@@ -621,15 +775,19 @@
     "ISBN/UID": "9781338635171",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/10242930-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/10242930-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/10242930-L.jpg",
+    "Pages": 528,
+    "Price": 36
   },
   {
     "Title": "Flowers for Algernon",
     "Authors": "Daniel Keyes",
     "ISBN/UID": "9780156030083",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/10331950-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/10331950-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/10331950-L.jpg",
+    "Pages": 311,
+    "Price": 38
   },
   {
     "Title": "Rise of the Huntress",
@@ -637,23 +795,29 @@
     "ISBN/UID": "9780061715105",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/14588703-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/14588703-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/14588703-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 31
   },
   {
     "Title": "Hercule Poirot's Christmas",
     "Authors": "Agatha Christie",
     "ISBN/UID": "9780063143555",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/12392269-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/12392269-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/12392269-L.jpg",
+    "Pages": 304,
+    "Price": 28
   },
   {
     "Title": "The Outsider (l'\u00c3\u2030tranger)",
     "Authors": "Albert Camus",
     "ISBN/UID": "9780679720201",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/13151259-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/13151259-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/13151259-L.jpg",
+    "Pages": 123,
+    "Price": 25
   },
   {
     "Title": "The Hero of Ages",
@@ -661,22 +825,28 @@
     "ISBN/UID": "9780765316899",
     "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/5698814-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/5698814-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/5698814-L.jpg",
+    "Pages": 572,
+    "Price": 36
   },
   {
     "Title": "The Spook's Blood",
     "Authors": "Joseph Delaney",
     "ISBN/UID": "9781782952558",
-    "Format": "digital",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/7464974-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/7464974-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/7464974-L.jpg",
+    "Pages": "No num_of_pages",
+    "Price": 39
   },
   {
     "Title": "Anne Frank and Me",
     "Authors": "Jeff Gottesfeld, Cherie Bennett",
     "ISBN/UID": "9780698119734",
-    "Format": "paperback",
+    "Format": "hardcover",
     "thumbnail": "https://covers.openlibrary.org/b/id/10307198-M.jpg",
-    "fullImage": "https://covers.openlibrary.org/b/id/10307198-L.jpg"
+    "fullImage": "https://covers.openlibrary.org/b/id/10307198-L.jpg",
+    "Pages": 304,
+    "Price": 28
   }
 ]

@@ -1,0 +1,8 @@
+:root {
+  --bg-main: #fff6ec;
+  --bg-secondary: #d3d3d3;
+}
+
+.main-container {
+  background-color: white;
+}
