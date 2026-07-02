@@ -17,7 +17,6 @@ for book in books:
         data = response.json()
         
         book_data = data.get(f"ISBN:{ISBN}")
-        print(book_data)
 
         if book_data and "cover" in book_data:
             thumbnail = book_data["cover"].get("medium")

@@ -32,7 +32,7 @@
     "Genre": "scifi",
     "thumbnail": "https://covers.openlibrary.org/b/id/10511383-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/10511383-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 350,
     "Price": 32
   },
   {
@@ -56,7 +56,7 @@
     "Genre": "horror",
     "thumbnail": "https://covers.openlibrary.org/b/id/9271453-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/9271453-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 502,
     "Price": 15
   },
   {
@@ -80,7 +80,7 @@
     "Genre": "scifi",
     "thumbnail": "https://covers.openlibrary.org/b/id/6389100-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/6389100-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 200,
     "Price": 34
   },
   {
@@ -92,7 +92,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/15160586-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/15160586-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 301,
     "Price": 14
   },
   {
@@ -104,7 +104,7 @@
     "Genre": "scifi",
     "thumbnail": "No Thumbnail",
     "fullImage": "No Cover",
-    "Pages": "No num_of_pages",
+    "Pages": 255,
     "Price": 13
   },
   {
@@ -164,7 +164,7 @@
     "Genre": "horror",
     "thumbnail": "https://covers.openlibrary.org/b/id/8659031-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/8659031-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 599,
     "Price": 17
   },
   {
@@ -248,7 +248,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/7631199-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/7631199-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 349,
     "Price": 37
   },
   {
@@ -260,7 +260,7 @@
     "Genre": "classics",
     "thumbnail": "https://covers.openlibrary.org/b/id/14598234-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/14598234-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 451,
     "Price": 11
   },
   {
@@ -272,7 +272,7 @@
     "Genre": "scifi",
     "thumbnail": "https://covers.openlibrary.org/b/id/12993135-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/12993135-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 405,
     "Price": 30
   },
   {
@@ -296,7 +296,7 @@
     "Genre": "misc",
     "thumbnail": "https://covers.openlibrary.org/b/id/8347423-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/8347423-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 220,
     "Price": 11
   },
   {
@@ -344,7 +344,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/7744376-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/7744376-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 400,
     "Price": 28
   },
   {
@@ -380,7 +380,7 @@
     "Genre": "horror",
     "thumbnail": "https://covers.openlibrary.org/b/id/9366573-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/9366573-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 1064,
     "Price": 35
   },
   {
@@ -464,7 +464,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/9146990-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/9146990-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 305,
     "Price": 10
   },
   {
@@ -512,7 +512,7 @@
     "Genre": "selfhelp",
     "thumbnail": "https://covers.openlibrary.org/b/id/10538014-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/10538014-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 300,
     "Price": 28
   },
   {
@@ -524,7 +524,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/8407985-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/8407985-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 378,
     "Price": 37
   },
   {
@@ -620,7 +620,7 @@
     "Genre": "scifi",
     "thumbnail": "https://covers.openlibrary.org/b/id/14831797-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/14831797-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 299,
     "Price": 35
   },
   {
@@ -668,7 +668,7 @@
     "Genre": "scifi",
     "thumbnail": "https://covers.openlibrary.org/b/id/6462950-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/6462950-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 199,
     "Price": 35
   },
   {
@@ -752,7 +752,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/10319872-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/10319872-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 359,
     "Price": 28
   },
   {
@@ -788,7 +788,7 @@
     "Genre": "scifi",
     "thumbnail": "https://covers.openlibrary.org/b/id/6368477-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/6368477-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 256,
     "Price": 28
   },
   {
@@ -812,7 +812,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/14618029-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/14618029-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 301,
     "Price": 37
   },
   {
@@ -860,7 +860,7 @@
     "Genre": "scifi",
     "thumbnail": "https://covers.openlibrary.org/b/id/8542521-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/8542521-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 331,
     "Price": 13
   },
   {
@@ -884,7 +884,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/10533675-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/10533675-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 359,
     "Price": 32
   },
   {
@@ -956,7 +956,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/14588703-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/14588703-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 370,
     "Price": 38
   },
   {
@@ -1004,7 +1004,7 @@
     "Genre": "fantasy",
     "thumbnail": "https://covers.openlibrary.org/b/id/7464974-M.jpg",
     "fullImage": "https://covers.openlibrary.org/b/id/7464974-L.jpg",
-    "Pages": "No num_of_pages",
+    "Pages": 407,
     "Price": 13
   },
   {
