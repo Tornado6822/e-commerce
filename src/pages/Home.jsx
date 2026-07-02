@@ -1,10 +1,12 @@
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
+import booksData from "../assets/books_with_covers.json";
 
 function Home() {
-  const [books, setBooks] = useState([]);
+  const [books, setBooks] = useState(booksData);
 
+  /*
   useEffect(() => {
     //async and await are used to ensure the code waits for the response before the next step.
     async function loadData() {
@@ -18,16 +20,17 @@ function Home() {
     }
     loadData();
   }, []);
+  */
 
-  const CATEGORIES = [...new Set(books.map((p) => p.Category))];
-  const GENRES = [...new Set(books.map((p) => p.Genre))];
-  const FORMATS = [...new Set(books.map((p) => p.Format))];
-  const MAX_PRICE = Math.max(...books.map((p) => p.Price));
-  const MAX_PAGE_COUNT = Math.max(...books.map((p) => p.Pages));
+  const CATEGORIES = [...new Set(books.map((b) => b.Category))];
+  const GENRES = [...new Set(books.map((b) => b.Genre))];
+  const FORMATS = [...new Set(books.map((b) => b.Format))];
+  const MAX_PRICE = Math.max(...books.map((b) => b.Price));
+  const MAX_PAGE_COUNT = Math.max(...books.map((b) => b.Pages));
 
   function emptyFilter() {
     return {
-      Categories: [],
+      Categories: ["fiction"],
       Genres: [],
       Formats: [],
       maxPrice: MAX_PRICE,
@@ -54,6 +57,30 @@ function Home() {
     );
   }
 
+  //App logic from example
+  const [cart, setCart] = useState([]);
+  const [cartOpen, setCartOpen] = useState(false);
+
+  const [filters, setFilters] = useState(emptyFilter());
+  const [sort, setSort] = useState("titleAToZ");
+
+  const galleryItems = useMemo(() => {
+    let list = books.filter(
+      (b) =>
+        (filters["Categories"].length === 0 ||
+          filters["Categories"].includes(b.Category)) &&
+        (filters["Genres"].length === 0 ||
+          filters["Genres"].includes(b.Genre)) &&
+        (filters["Formats"].length === 0 ||
+          filters["Formats"].includes(b.Format)) &&
+        b.Price <= filters.maxPrice &&
+        b.Pages <= filters.maxPageCount,
+    );
+    //sorting
+    return list;
+  }, [filters, sort]);
+
+  console.log(galleryItems);
   return (
     <div className="main-container">
       <Header />
