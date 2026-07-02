@@ -3,7 +3,6 @@
   display: grid;
   gap: 25px;
   grid-template-columns: Repeat(auto-fit, 300px);
-  justify-content: center;
 }
 
 .book-card {

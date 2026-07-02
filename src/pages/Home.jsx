@@ -30,9 +30,9 @@ function Home() {
 
   function emptyFilter() {
     return {
-      Categories: ["fiction"],
-      Genres: [],
-      Formats: [],
+      categories: [],
+      genres: [],
+      formats: [],
       maxPrice: MAX_PRICE,
       maxPageCount: MAX_PAGE_COUNT,
     };
@@ -51,9 +51,66 @@ function Home() {
       });
 
     return (
-      <>
-        <h1>Test</h1>
-      </>
+      <div className="container">
+        <div className="d-flex align-items-center justify-content-between mt-3">
+          <h1 className="fw-semibold">Filter</h1>
+          <button className="btn" onClick={() => setFilters(emptyFilter())}>
+            Clear All
+          </button>
+        </div>
+        <div className="">
+          <h6>Category</h6>
+          {CATEGORIES.map((c) => (
+            <div className="form-check" key={c}>
+              <input
+                type="form-check-input"
+                type="checkbox"
+                id={"cat-" + c}
+                checked={filters.categories.includes(c)}
+                onChange={() => toggle("categories", c)}
+              />
+              <label className="form-check-label" htmlFor={"cat-" + c}>
+                {c}
+              </label>
+            </div>
+          ))}
+        </div>
+        <div className="">
+          <h6>Genre</h6>
+          {GENRES.map((g) => (
+            <div className="form-check" key={g}>
+              <input
+                type="form-check-input"
+                type="checkbox"
+                id={"gen-" + g}
+                checked={filters.genres.includes(g)}
+                onChange={() => toggle("genres", g)}
+              />
+              <label className="form-check-label" htmlFor={"gen-" + g}>
+                {g}
+              </label>
+            </div>
+          ))}
+        </div>
+
+        <div className="">
+          <h6>Format</h6>
+          {FORMATS.map((f) => (
+            <div className="form-check" key={f}>
+              <input
+                type="form-check-input"
+                type="checkbox"
+                id={"for-" + f}
+                checked={filters.formats.includes(f)}
+                onChange={() => toggle("formats", f)}
+              />
+              <label className="form-check-label" htmlFor={"gen-" + f}>
+                {f}
+              </label>
+            </div>
+          ))}
+        </div>
+      </div>
     );
   }
 
@@ -64,33 +121,74 @@ function Home() {
   const [filters, setFilters] = useState(emptyFilter());
   const [sort, setSort] = useState("titleAToZ");
 
+  const [currentPage, setCurrentPage] = useState(1);
+  const BOOKS_PER_PAGE = 21;
+
   const galleryItems = useMemo(() => {
     let list = books.filter(
       (b) =>
-        (filters["Categories"].length === 0 ||
-          filters["Categories"].includes(b.Category)) &&
-        (filters["Genres"].length === 0 ||
-          filters["Genres"].includes(b.Genre)) &&
-        (filters["Formats"].length === 0 ||
-          filters["Formats"].includes(b.Format)) &&
+        (filters["categories"].length === 0 ||
+          filters["categories"].includes(b.Category)) &&
+        (filters["genres"].length === 0 ||
+          filters["genres"].includes(b.Genre)) &&
+        (filters["formats"].length === 0 ||
+          filters["formats"].includes(b.Format)) &&
         b.Price <= filters.maxPrice &&
         b.Pages <= filters.maxPageCount,
     );
     //sorting
+
     return list;
   }, [filters, sort]);
 
-  console.log(galleryItems);
+  const numOfPages = useMemo(() => {
+    return Math.ceil(galleryItems.length / BOOKS_PER_PAGE);
+  }, [filters]);
+
+  const displayedItems = useMemo(() => {
+    const startIndex = (currentPage - 1) * BOOKS_PER_PAGE;
+    const endIndex = startIndex + BOOKS_PER_PAGE;
+
+    return galleryItems.slice(startIndex, endIndex);
+  }, [filters, currentPage]);
+
   return (
     <div className="main-container">
       <Header />
       <div className="container">
         <div className="row">
-          <div className="col-12 col-md-3 bg-danger">
-            <Facets />
+          <div className="col-12 col-md-3 ">
+            <Facets filters={filters} setFilters={setFilters} />
           </div>
-          <div className="col-12 col-md-9 bg-primary">
-            <Gallery books={books} />
+          <div className="col-12 col-md-9 ">
+            {displayedItems.length === 0 ? (
+              <h1>No Results</h1>
+            ) : (
+              <Gallery books={displayedItems} />
+            )}
+
+            {/*}Bottom page buttons{*/}
+            <div className="d-flex justify-content-center gap-2 mt-4">
+              <button
+                className="btn btn-secondary"
+                disabled={currentPage === 1}
+                onClick={() => setCurrentPage(currentPage - 1)}
+              >
+                Previous
+              </button>
+
+              <span className="align-self-center">
+                Page {currentPage} of {numOfPages}
+              </span>
+
+              <button
+                className="btn btn-secondary"
+                disabled={currentPage === numOfPages}
+                onClick={() => setCurrentPage(currentPage + 1)}
+              >
+                Next
+              </button>
+            </div>
           </div>
         </div>
       </div>
