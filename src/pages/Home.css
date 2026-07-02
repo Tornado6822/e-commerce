@@ -1,0 +1,9 @@
+.header {
+  position: sticky;
+}
+
+.sidebar {
+  position: sticky;
+  height: calc(100vh - 100px);
+  top: 100px;
+}

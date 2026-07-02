@@ -1,3 +1,5 @@
+import "./Home.css";
+
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
 import { useState, useEffect, useMemo } from "react";
@@ -141,6 +143,17 @@ function Home() {
     return list;
   }, [filters, sort]);
 
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [filters]);
+
+  useEffect(() => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  }, [currentPage]);
+
   const numOfPages = useMemo(() => {
     return Math.ceil(galleryItems.length / BOOKS_PER_PAGE);
   }, [filters]);
@@ -157,7 +170,7 @@ function Home() {
       <Header />
       <div className="container">
         <div className="row">
-          <div className="col-12 col-md-3 ">
+          <div className="col-12 col-md-3 sidebar">
             <Facets filters={filters} setFilters={setFilters} />
           </div>
           <div className="col-12 col-md-9 ">

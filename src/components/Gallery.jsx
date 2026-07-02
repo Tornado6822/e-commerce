@@ -2,7 +2,7 @@ import "./Gallery.css";
 
 function Gallery({ books }) {
   return (
-    <div id="grid">
+    <div id="grid" className="mt-2">
       {books.map((book) => (
         <div key={book.Title} className="card book-card ">
           <div className="img-wrapper">
