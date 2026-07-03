@@ -6,6 +6,14 @@
   --secondary: #4dcd99;
 }
 
+body {
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
 .main-container {
   background-color: var();
 }
