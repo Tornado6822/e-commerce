@@ -112,7 +112,7 @@ function Home() {
                 checked={filters.formats.includes(f)}
                 onChange={() => toggle("formats", f)}
               />
-              <label className="form-check-label" htmlFor={"gen-" + f}>
+              <label className="form-check-label" htmlFor={"for-" + f}>
                 {f}
               </label>
             </div>
