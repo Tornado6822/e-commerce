@@ -170,6 +170,15 @@ function Home() {
   const [currentPage, setCurrentPage] = useState(1);
   const BOOKS_PER_PAGE = 21;
 
+  function addToCart(id) {
+    setCart((c) => {
+      const inCart = c.find((b) => b.id === id);
+      if (inCart)
+        return c.map((b) => (b === inCart ? { ...b, qty: b.qty + 1 } : b));
+      return [...c, { id, qty: 1 }];
+    });
+  }
+
   const galleryItems = useMemo(() => {
     let list = books.filter(
       (b) =>
@@ -244,7 +253,7 @@ function Home() {
               <h1>No Results</h1>
             ) : (
               <>
-                <Gallery books={displayedItems} />
+                <Gallery books={displayedItems} addToCart={addToCart} />
                 {/*}Bottom page buttons{*/}
                 <div className="d-flex justify-content-center gap-2 mt-4">
                   <button
