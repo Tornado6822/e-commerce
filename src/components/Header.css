@@ -1,7 +1,18 @@
+#logo {
+  width: 75px;
+  height: auto;
+}
+
+header {
+  background-color: var(--bg-main);
+  border: 1px solid var(--border);
+}
+
 .navbar {
   height: 100%;
 }
 
 .cart-btn {
   font-size: 1.5rem;
+  color: var(--primary);
 }

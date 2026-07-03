@@ -1,10 +1,13 @@
 :root {
-  --bg-main: #fff6ec;
+  --bg-main: #ffffff;
   --bg-secondary: #d3d3d3;
+  --border: #eaeaea;
+  --primary: #fe5e5e;
+  --secondary: #4dcd99;
 }
 
 .main-container {
-  background-color: white;
+  background-color: var();
 }
 
 header {

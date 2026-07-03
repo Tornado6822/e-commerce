@@ -1,6 +1,33 @@
-.cart-item {
-  width: 100%;
-  display: inline;
-  gap: 25px;
-  background-color: red;
+.cart-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+}
+
+.cart-header {
+  background-color: var(--bg-secondary);
+  font-weight: bold;
+}
+
+.cart-row {
+  border-bottom: 1px solid #eee;
+}
+
+.book-cell {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.book-img {
+  width: 60px;
+  height: auto;
+  object-fit: cover;
+}
+
+.book-info {
+  display: flex;
+  flex-direction: column;
 }

@@ -6,9 +6,10 @@ function Header({ cartSize, cartOpen, setCartOpen }) {
     <header className="container">
       <div className="row">
         <div
-          className="col-6 d-flex justify-content-start align-items-center"
+          className="col-6 d-flex justify-content-start align-items-center gap-3"
           style={{ height: "100px" }}
         >
+          <img id="logo" src="bookIcon.png" alt="book" />
           <h1 className="">A-To-Z Books</h1>
         </div>
         <div className="col-6 d-flex justify-content-end align-items-center px-5">
