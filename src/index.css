@@ -4,6 +4,9 @@
   --border: #eaeaea;
   --primary: #fe5e5e;
   --secondary: #4dcd99;
+
+  --bs-primary: var(--primary);
+  --bs-primary-rgb: 90, 62, 54;
 }
 
 body {

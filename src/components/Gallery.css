@@ -24,6 +24,7 @@
   object-fit: scale-down;
 }
 
-.add-to-carte {
+.add-to-cart {
   border: 1px solid black;
+  background-color: var(--primary);
 }

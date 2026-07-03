@@ -56,10 +56,13 @@ function Home() {
       });
 
     return (
-      <div className="container">
+      <div className="container filter-panel">
         <div className="d-flex align-items-center justify-content-between mt-3">
           <h1 className="fw-semibold">Filter</h1>
-          <button className="btn" onClick={() => setFilters(emptyFilter())}>
+          <button
+            className="btn btn-link clear-btn"
+            onClick={() => setFilters(emptyFilter())}
+          >
             Clear All
           </button>
         </div>
@@ -68,7 +71,7 @@ function Home() {
           {CATEGORIES.map((c) => (
             <div className="form-check" key={c}>
               <input
-                type="form-check-input"
+                className="form-check-input"
                 type="checkbox"
                 id={"cat-" + c}
                 checked={filters.categories.includes(c)}
@@ -85,7 +88,7 @@ function Home() {
           {GENRES.map((g) => (
             <div className="form-check" key={g}>
               <input
-                type="form-check-input"
+                className="form-check-input"
                 type="checkbox"
                 id={"gen-" + g}
                 checked={filters.genres.includes(g)}
@@ -103,7 +106,7 @@ function Home() {
           {FORMATS.map((f) => (
             <div className="form-check" key={f}>
               <input
-                type="form-check-input"
+                className="form-check-input"
                 type="checkbox"
                 id={"for-" + f}
                 checked={filters.formats.includes(f)}
@@ -139,13 +142,11 @@ function Home() {
         </div>
 
         <div className="my-4">
-          <h6
-            className="text-uppercase fw-semibold text-secondary mb-2"
-            style={{ fontSize: ".72rem", letterSpacing: ".08em" }}
-          >
+          <label htmlFor="price" className="form-label">
             Price (up to {money(filters.maxPrice)})
-          </h6>
+          </label>
           <input
+            id="price"
             type="range"
             className="form-range"
             min="10"
@@ -252,7 +253,9 @@ function Home() {
             </div>
             <div className="col-12 col-md-9 ">
               <div className="mt-4 d-flex justify-content-between">
-                <h5>{galleryItems.length + " Results"}</h5>
+                <h5 className="fw-semibold">
+                  {galleryItems.length + " Results"}
+                </h5>
                 <select
                   className="form-select"
                   value={sort}
@@ -297,7 +300,9 @@ function Home() {
               )}
             </div>
           </div>
-          <footer></footer>
+          <footer className=" text-center py-4 mt-5">
+            <small> © 2026 Patrick Morel. All rights reserved.</small>
+          </footer>
         </div>
       )}
     </div>

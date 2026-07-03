@@ -21,7 +21,7 @@ function Gallery({ books, addToCart }) {
             </p>
             <h5>{"$" + book.Price.toFixed(2)}</h5>
             <button
-              className="btn add-to-carte"
+              className="btn add-to-cart"
               onClick={() => addToCart(book["ISBN/UID"])}
             >
               Add to Cart
