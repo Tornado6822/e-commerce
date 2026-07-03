@@ -11,3 +11,9 @@
 .form-select {
   width: 200px;
 }
+
+footer {
+  background-color: var(--bg-secondary);
+  height: 200px;
+  margin-top: 10%;
+}

@@ -1,10 +1,30 @@
 import "./Header.css";
+import { IoMdCart } from "react-icons/io";
 
-function Header() {
+function Header({ cartSize, cartOpen, setCartOpen }) {
   return (
-    <header className="d-flex justify-content-evenly align-items-center">
-      <div className="container" style={{ height: "100%" }}></div>
-      <h1>A-To-Z Books</h1>
+    <header className="container">
+      <div className="row">
+        <div
+          className="col-6 d-flex justify-content-start align-items-center"
+          style={{ height: "100px" }}
+        >
+          <h1 className="">A-To-Z Books</h1>
+        </div>
+        <div className="col-6 d-flex justify-content-end align-items-center px-5">
+          <button
+            className="btn cart-btn btn-outline-dark position-relative"
+            onClick={() => setCartOpen((v) => !v)}
+          >
+            <IoMdCart className="cart-icon" />
+            {cartSize > 0 && (
+              <span className="cart-badge position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                {cartSize}
+              </span>
+            )}
+          </button>
+        </div>
+      </div>
     </header>
   );
 }

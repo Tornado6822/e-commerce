@@ -2,6 +2,7 @@ import "./Home.css";
 
 import Gallery from "../components/Gallery";
 import Header from "../components/Header";
+import Checkout from "../components/Checkout";
 import { useState, useEffect, useMemo } from "react";
 import booksData from "../assets/books_with_covers.json";
 
@@ -179,6 +180,10 @@ function Home() {
     });
   }
 
+  const cartSize = useMemo(() => {
+    return cart.reduce((total, b) => total + b.qty, 0);
+  }, [cart]);
+
   const galleryItems = useMemo(() => {
     let list = books.filter(
       (b) =>
@@ -227,60 +232,74 @@ function Home() {
 
   return (
     <div className="main-container">
-      <Header />
-      <div className="container">
-        <div className="row">
-          <div className="col-12 col-md-3 sidebar">
-            <Facets filters={filters} setFilters={setFilters} />
-          </div>
-          <div className="col-12 col-md-9 ">
-            <div className="mt-4 d-flex justify-content-between">
-              <h5>{galleryItems.length + " Results"}</h5>
-              <select
-                className="form-select"
-                value={sort}
-                onChange={(e) => setSort(e.target.value)}
-              >
-                <option value="titleAToZ">Title A → Z</option>
-                <option value="titleZToA">Title Z → A</option>
-                <option value="priceLowHigh">Price: Low → High</option>
-                <option value="priceHighLow">Price: High → Low</option>
-              </select>
+      <Header
+        cartSize={cartSize}
+        cartOpen={cartOpen}
+        setCartOpen={setCartOpen}
+      />
+      {cartOpen ? (
+        <Checkout
+          checkoutItems={cart.map((c) => ({
+            book: books.find((b) => b["ISBN/UID"] === c.id),
+            qty: c.qty,
+          }))}
+        />
+      ) : (
+        <div className="container">
+          <div className="row">
+            <div className="col-12 col-md-3 sidebar">
+              <Facets filters={filters} setFilters={setFilters} />
             </div>
-            <hr />
+            <div className="col-12 col-md-9 ">
+              <div className="mt-4 d-flex justify-content-between">
+                <h5>{galleryItems.length + " Results"}</h5>
+                <select
+                  className="form-select"
+                  value={sort}
+                  onChange={(e) => setSort(e.target.value)}
+                >
+                  <option value="titleAToZ">Title A → Z</option>
+                  <option value="titleZToA">Title Z → A</option>
+                  <option value="priceLowHigh">Price: Low → High</option>
+                  <option value="priceHighLow">Price: High → Low</option>
+                </select>
+              </div>
+              <hr />
 
-            {displayedItems.length === 0 ? (
-              <h1>No Results</h1>
-            ) : (
-              <>
-                <Gallery books={displayedItems} addToCart={addToCart} />
-                {/*}Bottom page buttons{*/}
-                <div className="d-flex justify-content-center gap-2 mt-4">
-                  <button
-                    className="btn btn-secondary"
-                    disabled={currentPage === 1}
-                    onClick={() => setCurrentPage(currentPage - 1)}
-                  >
-                    Previous
-                  </button>
+              {displayedItems.length === 0 ? (
+                <h1>No Results</h1>
+              ) : (
+                <>
+                  <Gallery books={displayedItems} addToCart={addToCart} />
+                  {/*}Bottom page buttons{*/}
+                  <div className="d-flex justify-content-center gap-2 mt-4">
+                    <button
+                      className="btn btn-secondary"
+                      disabled={currentPage === 1}
+                      onClick={() => setCurrentPage(currentPage - 1)}
+                    >
+                      Previous
+                    </button>
 
-                  <span className="align-self-center">
-                    Page {currentPage} of {numOfPages}
-                  </span>
+                    <span className="align-self-center">
+                      Page {currentPage} of {numOfPages}
+                    </span>
 
-                  <button
-                    className="btn btn-secondary"
-                    disabled={currentPage === numOfPages}
-                    onClick={() => setCurrentPage(currentPage + 1)}
-                  >
-                    Next
-                  </button>
-                </div>
-              </>
-            )}
+                    <button
+                      className="btn btn-secondary"
+                      disabled={currentPage === numOfPages}
+                      onClick={() => setCurrentPage(currentPage + 1)}
+                    >
+                      Next
+                    </button>
+                  </div>
+                </>
+              )}
+            </div>
           </div>
+          <footer></footer>
         </div>
-      </div>
+      )}
     </div>
   );
 }

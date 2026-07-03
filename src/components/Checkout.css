@@ -1,0 +1,6 @@
+.cart-item {
+  width: 100%;
+  display: inline;
+  gap: 25px;
+  background-color: red;
+}
