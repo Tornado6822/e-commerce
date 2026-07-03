@@ -16,6 +16,12 @@ function Gallery({ books }) {
           <div className="card-body">
             <h5 className="card-title">{book.Title}</h5>
             <p className="card-text">{book.Authors}</p>
+            <p className="card-title">
+              {book.Format.charAt(0).toUpperCase() + book.Format.slice(1)}
+            </p>
+            <h5 className="card-text fw-semibold">
+              {"$" + book.Price.toFixed(2)}
+            </h5>
           </div>
         </div>
       ))}
