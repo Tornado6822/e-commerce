@@ -58,7 +58,7 @@ function Home() {
     return (
       <div className="container filter-panel">
         <div className="d-flex align-items-center justify-content-between mt-3">
-          <h1 className="fw-semibold">Filter</h1>
+          <h2 className="fw-semibold">Filter</h2>
           <button
             className="btn btn-link clear-btn"
             onClick={() => setFilters(emptyFilter())}
@@ -181,6 +181,12 @@ function Home() {
     });
   }
 
+  function removeCart(id) {
+    setCart((c) => {
+      return c.filter((b) => b.id !== id);
+    });
+  }
+
   const cartSize = useMemo(() => {
     return cart.reduce((total, b) => total + b.qty, 0);
   }, [cart]);
@@ -231,6 +237,13 @@ function Home() {
     return galleryItems.slice(startIndex, endIndex);
   }, [galleryItems, currentPage]);
 
+  const checkoutItems = useMemo(() => {
+    return cart.map((c) => ({
+      book: books.find((b) => b["ISBN/UID"] === c.id),
+      qty: c.qty,
+    }));
+  }, [cart]);
+
   return (
     <div className="main-container">
       <Header
@@ -239,12 +252,7 @@ function Home() {
         setCartOpen={setCartOpen}
       />
       {cartOpen ? (
-        <Checkout
-          checkoutItems={cart.map((c) => ({
-            book: books.find((b) => b["ISBN/UID"] === c.id),
-            qty: c.qty,
-          }))}
-        />
+        <Checkout checkoutItems={checkoutItems} removeCart={removeCart} />
       ) : (
         <div className="container">
           <div className="row">

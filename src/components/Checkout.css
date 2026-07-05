@@ -1,6 +1,6 @@
 .cart-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
   gap: 10px;
   align-items: center;
   padding: 10px;
@@ -30,4 +30,9 @@
 .book-info {
   display: flex;
   flex-direction: column;
+}
+
+.remove-btn {
+  font-size: 2rem;
+  color: var(--primary);
 }
