@@ -16,6 +16,15 @@
   background-color: var(--primary);
 }
 
+/*
+.filter-panel {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+*/
+
 .clear-btn {
   color: var(--secondary);
 }

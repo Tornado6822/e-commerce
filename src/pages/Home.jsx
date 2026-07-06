@@ -11,6 +11,7 @@ import Shipping from "../components/Shipping";
 import Payment from "../components/Payment";
 import Review from "../components/Review";
 import Confirmation from "../components/Confirmation";
+import Feedback from "../components/Feedback";
 
 function Home() {
   const [books, setBooks] = useState(booksData);
@@ -337,7 +338,16 @@ function Home() {
                 </div>
               );
             case 5:
-              return <Confirmation />;
+              return <Confirmation onNext={() => setStep(6)} />;
+            case 6:
+              return (
+                <Feedback
+                  onFinish={() => {
+                    setStep(1);
+                    setCartOpen(false);
+                  }}
+                />
+              );
             default:
               return null;
           }
