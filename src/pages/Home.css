@@ -65,3 +65,12 @@
 .form-range::-moz-range-thumb {
   background: var(--secondary);
 }
+
+.form-select {
+  border: 2px solid var(--secondary);
+}
+
+.form-select:focus {
+  border-color: var(--secondary);
+  box-shadow: 0 0 0 0.2rem rgba(77, 205, 153, 0.25);
+}
