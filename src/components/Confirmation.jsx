@@ -7,7 +7,7 @@ function Confirmation({ onNext }) {
 
       <div>
         <button className="btn btn-secondary mt-3" onClick={() => onNext()}>
-          Survey
+          Share Your Feedback
         </button>
       </div>
 

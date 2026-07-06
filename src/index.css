@@ -17,10 +17,6 @@ h1 {
   font-family: "Playfair Display", serif;
 }
 
-.main-container {
-  background-color: var();
-}
-
 header {
   height: 100px;
   position: sticky;
