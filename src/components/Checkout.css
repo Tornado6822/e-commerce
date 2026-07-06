@@ -36,3 +36,13 @@
   font-size: 2rem;
   color: var(--primary);
 }
+
+.checkout-btn {
+  font-size: 2rem;
+  border: 1px solid black;
+  background-color: var(--primary);
+}
+
+.checkout-btn:hover {
+  background-color: var(--primary);
+}

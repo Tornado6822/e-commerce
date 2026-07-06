@@ -28,3 +28,7 @@
   border: 1px solid black;
   background-color: var(--primary);
 }
+
+.add-to-cart:hover {
+  background-color: var(--primary);
+}

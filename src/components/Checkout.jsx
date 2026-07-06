@@ -1,7 +1,7 @@
 import "./Checkout.css";
 import { HiOutlineTrash } from "react-icons/hi";
 
-function Checkout({ checkoutItems, removeCart }) {
+function Checkout({ checkoutItems, removeCart, onNext }) {
   return (
     <div className="container d-flex flex-column">
       {checkoutItems.length === 0 ? (
@@ -10,7 +10,7 @@ function Checkout({ checkoutItems, removeCart }) {
         </h1>
       ) : (
         <div>
-          <h1>Your Shopping Cart</h1>
+          <h1 className="mt-5 mb-4">Your Shopping Cart</h1>
           <div className="cart-grid cart-header">
             <h5>Items</h5>
             <h5>Price</h5>
@@ -45,16 +45,18 @@ function Checkout({ checkoutItems, removeCart }) {
           ))}
 
           <hr className="mt-5" />
-          <div className="d-flex">
-            <h2>
-              {"Total: $" +
-                checkoutItems
-                  .reduce((total, { book, qty }) => {
-                    return total + book.Price * qty;
-                  }, 0)
-                  .toFixed(2)}
-            </h2>
-            <h2></h2>
+          <h2>
+            {"Total: $" +
+              checkoutItems
+                .reduce((total, { book, qty }) => {
+                  return total + book.Price * qty;
+                }, 0)
+                .toFixed(2)}
+          </h2>
+          <div className="d-flex justify-content-center">
+            <button className="btn checkout-btn mb-5" onClick={() => onNext()}>
+              Proceed to Checkout
+            </button>
           </div>
         </div>
       )}

@@ -5,6 +5,12 @@ import Header from "../components/Header";
 import Checkout from "../components/Checkout";
 import { useState, useEffect, useMemo } from "react";
 import booksData from "../assets/books_with_covers.json";
+import PersonalInfo from "../components/PersonalInfo";
+import ProgressBar from "../components/ProgressBar";
+import Shipping from "../components/Shipping";
+import Payment from "../components/Payment";
+import Review from "../components/Review";
+import Confirmation from "../components/Confirmation";
 
 function Home() {
   const [books, setBooks] = useState(booksData);
@@ -172,6 +178,24 @@ function Home() {
   const [currentPage, setCurrentPage] = useState(1);
   const BOOKS_PER_PAGE = 21;
 
+  const [step, setStep] = useState(0);
+  const [personalInfo, setPersonalInfo] = useState({
+    firstName: "",
+    lastName: "",
+    email: "",
+    phone: "",
+
+    address: "",
+    city: "",
+    province: "",
+    postalCode: "",
+
+    cardName: "",
+    cardNumber: "",
+    expiry: "",
+    cvv: "",
+  });
+
   function addToCart(id) {
     setCart((c) => {
       const inCart = c.find((b) => b.id === id);
@@ -252,7 +276,72 @@ function Home() {
         setCartOpen={setCartOpen}
       />
       {cartOpen ? (
-        <Checkout checkoutItems={checkoutItems} removeCart={removeCart} />
+        (() => {
+          switch (step) {
+            case 0:
+              return (
+                <Checkout
+                  checkoutItems={checkoutItems}
+                  removeCart={removeCart}
+                  onNext={() => setStep(1)}
+                />
+              );
+            case 1:
+              return (
+                <div>
+                  <ProgressBar step={step} />
+                  <PersonalInfo
+                    personalInfo={personalInfo}
+                    setPersonalInfo={setPersonalInfo}
+                    onNext={() => setStep(2)}
+                  />
+                </div>
+              );
+            case 2:
+              return (
+                <div>
+                  <ProgressBar step={step} />
+                  <Shipping
+                    personalInfo={personalInfo}
+                    setPersonalInfo={setPersonalInfo}
+                    onNext={() => setStep(3)}
+                    onBack={() => setStep(1)}
+                  />
+                </div>
+              );
+            case 3:
+              return (
+                <div>
+                  <ProgressBar step={step} />
+                  <Payment
+                    personalInfo={personalInfo}
+                    setPersonalInfo={setPersonalInfo}
+                    onNext={() => setStep(4)}
+                    onBack={() => setStep(2)}
+                  />
+                </div>
+              );
+            case 4:
+              return (
+                <div>
+                  <ProgressBar step={step} />
+                  <Review
+                    checkoutItems={checkoutItems}
+                    personalInfo={personalInfo}
+                    onBack={() => setStep(3)}
+                    onPlaceOrder={() => {
+                      setCart([]); // clear cart
+                      setStep(5); // go to confirmation
+                    }}
+                  />
+                </div>
+              );
+            case 5:
+              return <Confirmation />;
+            default:
+              return null;
+          }
+        })()
       ) : (
         <div className="container">
           <div className="row">
